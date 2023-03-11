@@ -16,6 +16,7 @@ public class Main {
 		a2.setAltura(1.70);
 		a2.setMatricula(2);
 		
+		System.out.println("Olá!\n");
 		a1.imprimirDadosAluno();
 		System.out.println("\n");
 		a2.imprimirDadosAluno();
